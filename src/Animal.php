@@ -43,8 +43,5 @@ abstract class Animal implements AnimalInterface
         print $this->animalInfo().' can sleep'.PHP_EOL;;
     }
 
-    abstract function live();
-    abstract function specialAbilities();
-
 
 }
