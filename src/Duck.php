@@ -1,5 +1,6 @@
 <?php
 namespace App;
+use App\Abstracts\Animal;
 use App\Interfaces\Quackable;
 use App\Interfaces\Swimable;
 

@@ -1,5 +1,5 @@
 <?php
-namespace App;
+namespace App\Abstracts;
 use App\Interfaces\AnimalInterface;
 
 abstract class Animal implements AnimalInterface

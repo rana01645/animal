@@ -1,5 +1,6 @@
 <?php
 namespace App;
+use App\Abstracts\Animal;
 use App\Interfaces\AnimalStoryInterface;
 
 class AnimalStory implements AnimalStoryInterface
